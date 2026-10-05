@@ -8,3 +8,9 @@ Open-source 2D medieval-styled chess set — **currently in development**.
 > 
 > **Expected Release:** [Q4 2026]
 > **Current Status:** Beta version phase (4/6 pieces complete)
+
+
+## License
+CC BY 4.0 — See the LICENSE file
+
+Copyright (c) 2026 Mario Ricci
