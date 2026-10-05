@@ -10,7 +10,7 @@
 - All six piece type concept are solid. Queen and Rook refined to match Bishop.
 
 ### 2026-09-19
-- Alpha version finished (all six piece type in White and Black).
+- Alpha version (in White and Black).
 
 ### 2026-08-27
 - First prototype.
