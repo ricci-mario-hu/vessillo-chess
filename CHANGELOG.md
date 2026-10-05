@@ -7,4 +7,4 @@
 - Officially named the chess set "Vessillo"
 
 ### 2026-10-01
-- Completed concept testing phase
+- Completed concept phase (all six piece type concept are solid)
