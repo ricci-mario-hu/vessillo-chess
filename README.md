@@ -10,6 +10,6 @@ Open-source 2D medieval-style chess set — **currently in development**.
 > **Expected Release:** [November 2026]
 
 ## License
-CC BY 4.0 — See the LICENSE file
+CC BY 4.0 — See the [LICENSE](https://github.com/ricci-mario-hu/vessillo-chess/blob/main/LICENSE) file
 
 Copyright (c) 2026 Mario Ricci
