@@ -6,7 +6,7 @@ Open-source 2D medieval-styled chess set — **currently in development**.
 > This repository contains planning documents and conceptual assets only.
 > The complete chess set will be released when beta version of the pieces are ready for testing.
 > 
-> **Current Status:** Beta version phase (4/6 pieces complete)
+> **Current Status:** Beta version phase (5/6 pieces completed)
 > 
 > **Expected Release:** [Q4 2026]
 
