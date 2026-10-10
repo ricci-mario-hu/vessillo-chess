@@ -1,4 +1,4 @@
-# Vessillo Chess Set
+# Vessillo chess set
 Open-source 2D medieval-style chess set — **currently in development**.
 
 > **⚠️ WORK IN PROGRESS**
