@@ -1,5 +1,8 @@
 ## Changelog
 
+### 2026-10-10
+- King piece refined.
+
 ### 2026-10-09
 - Redesigned the Knight to reflect both its new symbolism and its traditional shape.
 
