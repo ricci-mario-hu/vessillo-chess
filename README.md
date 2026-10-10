@@ -1,5 +1,5 @@
 # Vessillo chess set
-Open-source 2D medieval-style chess set — **currently in development**.
+Open-source 2D medieval-themed chess set — **currently in development**.
 
 > **⚠️ WORK IN PROGRESS**
 > 
