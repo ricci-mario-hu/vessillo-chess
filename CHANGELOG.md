@@ -13,8 +13,8 @@
 - Officially named the chess set "Vessillo".
 
 ### 2026-10-01
+- Major refinements: Queen and Rook style match to Bishop.
 - The concepts for all six piece types are solid.
-- Queen and Rook refined to match Bishop.
 
 ### 2026-09-19
 - Alpha version (White and Black pieces).
