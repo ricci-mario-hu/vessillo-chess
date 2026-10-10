@@ -1,7 +1,10 @@
 ## Changelog
 
+### 2026-10-09
+- Redesigned the Knight to reflect both its new symbolism and its traditional shape.
+
 ### 2026-10-05
-- Created common base design for Rook, Bishop, and Queen pieces.
+- Common base design created for Rook, Bishop, and Queen pieces.
 
 ### 2026-10-04
 - Officially named the chess set "Vessillo".
@@ -10,7 +13,7 @@
 - All six piece type concept are solid. Queen and Rook refined to match Bishop.
 
 ### 2026-09-19
-- Alpha version (in White and Black).
+- Alpha version (White and Black pieces).
 
 ### 2026-08-27
 - First prototype.
