@@ -1,5 +1,9 @@
 ## Changelog
 
+### 2026-10-17
+- Differentiated the bases of the rook, bishop, and queen pieces to prevent accidental misidentification.
+- Shape refinements and simplifications.
+
 ### 2026-10-10
 - King piece refined.
 
