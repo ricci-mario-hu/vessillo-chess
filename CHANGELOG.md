@@ -8,7 +8,7 @@
 - King piece refined.
 
 ### 2026-10-09
-- Redesigned the Knight to reflect both its new symbolism and its traditional shape.
+- Redesigned the Knight to better reflect its movement pattern while retaining the traditional horse shape.
 
 ### 2026-10-05
 - Common base design created for Rook, Bishop, and Queen pieces.
