@@ -3,13 +3,13 @@ Open-source 2D medieval-themed chess set — **currently in development**.
 
 > **⚠️ WORK IN PROGRESS**
 > 
-> The full chess set will be released once the pieces reach beta.
+> **Current Status:** Closed test
 > 
-> **Current Status:** All pieces completed, closed test
+> The full chess set will be released once the pieces reach beta.
 > 
 > **Expected Release:** [November 2026]
 
 ## License
-CC BY 4.0 — See the [LICENSE](https://github.com/ricci-mario-hu/vessillo-chess/blob/main/LICENSE) file
+CC BY 4.0 — For summary see the [LICENSE](https://github.com/ricci-mario-hu/vessillo-chess/blob/main/LICENSE) file
 
 Copyright (c) 2026 Mario Ricci
