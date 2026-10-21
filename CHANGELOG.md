@@ -1,5 +1,13 @@
 ## Changelog
 
+### 2026-10-21
+- The colors are slightly less contrasted.
+- The Pawn's shield is now more traditional.
+- The Rook's battlements are larger.
+- The Knight's expression has been changed.
+- The Bishop now has a face instead of a shadow.
+- The Queen's crown crest is now wider.
+
 ### 2026-10-17
 - Differentiated the bases of the Rook, Bishop, and Queen pieces for easier recognition.
 - Shape refinements and simplifications.
