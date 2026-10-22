@@ -1,5 +1,5 @@
 # Vessillo chess set
-A chess set where each piece is designed as a medieval warrior whose identity reflects how it moves — while preserving the traditional symbols everyone recognizes.
+A chess set where each piece is designed as a medieval warrior whose identity reflects how it moves — while staying recognizable to anyone who knows the traditional pieces.
 
 > **⚠️ WORK IN PROGRESS**
 > 
